@@ -24,3 +24,11 @@ Es un cliente, el cual se encuentra en la red local del server. El cliente envia
 ![prueba_otsu](https://user-images.githubusercontent.com/102978460/177020604-b615864b-a0b2-4ebd-be4c-7385f821e296.jpg)
 ![prueba_otsu](https://user-images.githubusercontent.com/102978460/177020593-c179fbe9-4946-4cb2-8aac-3cddd4669c15.jpg)
 ![prueba_otsu](https://user-images.githubusercontent.com/102978460/177020618-0bed903a-f01f-4e3f-8caa-f36eb5f054c4.jpg)
+
+# Información del proceso en los servers
+## Otsu
+![otsu_htop](https://user-images.githubusercontent.com/102978460/177022680-370b772c-886b-4990-b93b-788048ff4b31.jpg)
+## Otsu_statistics
+![otsu_statis_htop](https://user-images.githubusercontent.com/102978460/177022788-f2424ed3-fcbf-4c18-b59c-cc30b2f54f32.jpg)
+## Otsu_histograma
+![otsu_hist_htop](https://user-images.githubusercontent.com/102978460/177022889-015b43ad-0502-4f17-a452-134fe6e52ba9.jpeg)
