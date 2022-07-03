@@ -4,7 +4,7 @@ Algoritmo Otsu-Thresholding con diferentes implementaciones
 Los archivos otsu.ipynb, otsu_statistics.ipynb y otsu_histograma.ipynb son las que se encargaran de procesar las imagenes para enviarlas a un cliente en la red local
 
 # Implementación Multiprocessing
-Realiza el histograma en forma serial y en paralelo, para esto la imagen se separa en 5 partes
+Realiza el histograma y la regeneracion de la imagen en forma serial y en paralelo, para esto la imagen se separa en 5 partes
 
 # Otsu client
 Es un cliente, el cual se encuentra en la red local del server. El cliente enviará una imagen al server para que la imagem sea procesada, posteriormente el server enviará la imagen procesada al cliente.
