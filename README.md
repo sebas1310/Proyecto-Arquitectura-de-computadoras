@@ -15,7 +15,7 @@ Se utiliza la función cv2.calcHist()
 # Otsu client
 Es un cliente, el cual se encuentra en la red local del server. El cliente enviará una imagen al server para que la imagem sea procesada, posteriormente el server enviará la imagen procesada al cliente.
 
-# Imagenes usadas
+# Imagenes de prueba
 ![perro](https://user-images.githubusercontent.com/102978460/177020563-e91fa346-8126-4cbc-9927-727e5c71167f.jpg)
 ![prueba](https://user-images.githubusercontent.com/102978460/177020585-feaf82f1-791a-43df-a6fc-6812957eea17.jpg)
 ![prueba](https://user-images.githubusercontent.com/102978460/177020568-f8986ef8-7fe0-410c-b319-e6f3a573691d.jpg)
@@ -26,6 +26,8 @@ Es un cliente, el cual se encuentra en la red local del server. El cliente envia
 ![prueba_otsu](https://user-images.githubusercontent.com/102978460/177020618-0bed903a-f01f-4e3f-8caa-f36eb5f054c4.jpg)
 
 # Información del proceso en los servers
+## Otsu base
+![otsu_simple](https://user-images.githubusercontent.com/102978460/177023180-080199be-f483-41ad-8c1c-a9d03c6f5fd4.jpg)
 ## Otsu
 ![otsu_htop](https://user-images.githubusercontent.com/102978460/177022680-370b772c-886b-4990-b93b-788048ff4b31.jpg)
 ## Otsu_statistics
