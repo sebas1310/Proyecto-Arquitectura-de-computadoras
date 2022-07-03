@@ -28,7 +28,7 @@ Es un cliente, el cual se encuentra en la red local del server. El cliente envia
 # Información del proceso en los servers
 ## Otsu base
 ![otsu_simple](https://user-images.githubusercontent.com/102978460/177023180-080199be-f483-41ad-8c1c-a9d03c6f5fd4.jpg)
-## Otsu
+## Otsu socket
 ![otsu_htop](https://user-images.githubusercontent.com/102978460/177022680-370b772c-886b-4990-b93b-788048ff4b31.jpg)
 ## Otsu_statistics
 ![otsu_statis_htop](https://user-images.githubusercontent.com/102978460/177022788-f2424ed3-fcbf-4c18-b59c-cc30b2f54f32.jpg)
