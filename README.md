@@ -36,3 +36,5 @@ Es un cliente, el cual se encuentra en la red local del server. El cliente envia
 ![otsu_statis_htop](https://user-images.githubusercontent.com/102978460/177022788-f2424ed3-fcbf-4c18-b59c-cc30b2f54f32.jpg)
 ## Otsu_histograma
 ![otsu_hist_htop](https://user-images.githubusercontent.com/102978460/177022889-015b43ad-0502-4f17-a452-134fe6e52ba9.jpeg)
+## Otsu Multiprocessing
+![otsu_multiproc](https://user-images.githubusercontent.com/102978460/177023440-97030515-69de-4143-9f53-cb0e957bca25.jpg)
